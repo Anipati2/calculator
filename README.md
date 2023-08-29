@@ -1,4 +1,4 @@
-# calculator
+# calculator [Click here](https://anipati2.github.io/calculator/)
 
 This is just a simple calculator, nothing too special 
 

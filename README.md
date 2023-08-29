@@ -1,5 +1,5 @@
-# calculator [Click here](https://anipati2.github.io/calculator/)
+# Calculator 
 
-This is just a simple calculator, nothing too special 
+A simple calculator, nothing too special ... but this project is with 300 lines of code!
 
-I spent more than 3 hours working on this 
+[Click here to go to the calculator](https://anipati2.github.io/calculator/)
